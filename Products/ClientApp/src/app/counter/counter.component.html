@@ -1,0 +1,17 @@
+<h1>Products</h1>
+
+
+<p *ngIf="!products"><em>Loading...</em></p>
+
+<table class='table' *ngIf="products">
+  <thead>
+    <tr>
+      <th>Name</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let data of products">
+      <td>{{ data.name }}</td>
+    </tr>
+  </tbody>
+</table>
