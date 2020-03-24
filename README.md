@@ -1,6 +1,6 @@
 # Repository Pattern Template
 Dotnet repository pattern template with unit of work.
-This is the basic setup for the repository pattern to work with and to understand how to implement.
+This is the basic setup for the repository pattern to work with C# and to understand how to implement.
 
 In this example three layers has been used.<br />
 
