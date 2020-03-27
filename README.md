@@ -12,5 +12,3 @@ Explanation regarding the implementation available in the CodeProject. <br />
 <a href="https://www.codeproject.com/Articles/1275116/Guidance-for-the-Implementation-of-repository-patt" rel="nofollow" target="_blank">
 Guidance for the implementation of repository pattern </a>
 
-<br/>
-To test commit
