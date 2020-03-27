@@ -14,3 +14,6 @@ Guidance for the implementation of repository pattern </a>
 
 <br/>
 To test commit
+Hi hello
+
+Master
